@@ -123,7 +123,7 @@ homepage = html.Div(children=[
                             dbc.Card(
                                 [
                                     dbc.CardImg(
-                                        src=img2,
+                                        #src=img2
                                         style=cardimg_style,
                                     ),
                                     dbc.CardLink(id="ml_link",
